@@ -35,3 +35,6 @@ Install `Flask`
 Launch your app
 
 	foreman start
+	
+	
+[![Analytics](https://ga-beacon.appspot.com/UA-59640055-1/Python-app/readme)](https://github.com/igrigorik/ga-beacon)
